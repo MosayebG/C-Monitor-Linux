@@ -9,11 +9,9 @@ For using this programm the "sysstat" must be installed on the system.
 
 It give this information in a period of the time:
 
-1. The cpu information
-2. Kernel Version
-3. Ram statistics
-4. Time elapsed since last system reboot
-5. cpu Utilization
-6. Hard disk staistics
-7. Ram utilization
-8. Number of new process
+1. Kernel Version
+2. Ram information and utilization
+3. Time elapsed since last system reboot
+4. Cpu information and utilization
+5. Hard disk staistics
+6. Number of new process
