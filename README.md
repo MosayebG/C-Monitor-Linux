@@ -14,6 +14,7 @@ It give this information in a period of the time:
 3. Time elapsed since last system reboot
 4. Cpu information and utilization
 5. Hard disk staistics
-6. Number of new process
+6. Number of new processes
 
-    Usage: ./monitor <read_time> <write_time>
+
+    usage: ./monitor <readtime> <writetime>
