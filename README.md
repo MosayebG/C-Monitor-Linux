@@ -15,3 +15,5 @@ It give this information in a period of the time:
 4. Cpu information and utilization
 5. Hard disk staistics
 6. Number of new process
+
+    Usage: ./monitor <read_time> <write_time>
