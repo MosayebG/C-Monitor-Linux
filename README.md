@@ -16,5 +16,7 @@ It give this information in a period of the time:
 5. Hard disk staistics
 6. Number of new processes
 
+===============
+# Usage
 
-    usage: ./monitor <readtime> <writetime>
+`usage: ./monitor <readtime> <writetime>`
